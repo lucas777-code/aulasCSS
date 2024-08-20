@@ -1,0 +1,30 @@
+/* alterando cor por nome */
+.nome{
+    color: green;
+    background-color: blue;
+}
+
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color: #42f58d;
+    background-color: rgb(241, 9, 9);
+}
+
+/* alterando cor por rgba */
+.rgba{
+    color: rgb(246, 217, 55);
+    background-color: rgb(250, 42, 250);
+}
+
+/* alterando a segunda pagina */
+.titulo-background{
+    background-color: lightseagreen;
+    color: forestgreen;
+    text-align: end;
+}
+
+.div-background{
+    background-image: url(lucas.png);
+    height: 500px;
+    width: 800px; 
+}
