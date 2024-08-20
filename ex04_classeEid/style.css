@@ -1,0 +1,25 @@
+/* Adicionando CSS */
+/* com seletor 'TAG' */
+h1{
+    color: chocolate;
+    font-size: 15px;
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+/* Adicionando CSS */
+/* com seletor 'id' */
+/* ID NÃO pode ser compartilhado */
+#paragrafo2{
+    color: blueviolet;
+    font-size: normal;
+}
+
+/* Adicionando CSS */
+/* com seletor 'class' */
+.p-texto{
+    color: royalblue;
+    font-weight: normal;
+}
