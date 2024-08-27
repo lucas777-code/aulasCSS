@@ -1,0 +1,11 @@
+.position{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    border-bottom: 3px dashed rgb(51, 73, 153);
+}
+.static{
+    border-right: 5px solid salmon;
+    position: static;
+    top: 20px;
+}
