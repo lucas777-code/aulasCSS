@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+.boxmodel {
+    /* Raul bigode corte novo */
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+    /* Espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* linha que fica apos o padding */
+    border: 10px solid yellow;
+    border-left: 15px dotted blue;
+    border-right-style: double;
+    border-radius: 100px;
+    /* adicionando espaço */
+    margin: 50px 50px;
+}
+
+.boxmodel2{
+   /* Raul bigode corte novo */
+   width: 200px;
+   height: 200px;
+   background-color: orangered;
+   /* Espaçamento depois do conteudo */
+   padding: 30px 30px;
+   /* linha que fica apos o padding */
+   border: 10px solid yellow;
+   border-left: 15px dotted blue;
+   border-right-style: double;
+   border-radius: 100px;
+   /* adicionando espaço */
+   margin: 10px 50px 100px 20px;
+}
